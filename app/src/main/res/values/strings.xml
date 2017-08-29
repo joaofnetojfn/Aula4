@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jogo Advinha o numero</string>
+    <string name="Texto1">Digite o numero:</string>
+    <string name="mensagem">Texto</string>
+</resources>
